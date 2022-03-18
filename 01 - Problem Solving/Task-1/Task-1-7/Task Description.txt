@@ -1,0 +1,11 @@
+7- Modify the previous program such that only multiples of three or five are 
+considered in the sum. 
+EX:
+ 
+Input: 
+15 
+Output: 
+60 
+Explanation: 
+Only numbers (3, 5, 6, 9, 10, 12, 15) as (3, 6, 9, 12) are multiples of 3 and (5, 10, 
+15) are multiples of 5. So the answer will be 3 + 5 + 6 + 9 + 10 + 12 + 15 = 60

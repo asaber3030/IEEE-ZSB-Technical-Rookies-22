@@ -1,0 +1,9 @@
+2- Write a program that asks the user to input a number, n > 1 and prints all 
+prime numbers from 1 to n inclusive. The output numbers should be on one line
+with a space separating between them. 
+
+EX: 
+Input: 
+15 
+Output: 
+2 3 5 7 11 13 

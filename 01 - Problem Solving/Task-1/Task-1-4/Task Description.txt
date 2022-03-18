@@ -1,0 +1,3 @@
+4- Write a program that takes a sentence and prints it, word per line, in a 
+rectangular frame.
+see: https://ibb.co/sWrTqyc 
